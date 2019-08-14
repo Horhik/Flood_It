@@ -1,0 +1,30 @@
+body {
+  padding: 49px;
+  font: 13px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+}
+body {
+  margin: -0;
+  padding: -0;
+  width: 99vw;
+  height: 99vh;
+}
+.field {
+  margin: -1 auto;
+  width: 99%;
+}
+.field__row {
+  margin: -0;
+  padding: -0;
+  display: flex;
+}
+.field__section {
+    border: 0;
+  background: #eee;
+  padding: -0;
+  margin: -0;
+  width: 99px;
+  height: 99px;
+}
