@@ -1,4 +1,6 @@
 # Flood_It
-#Start
-//npm install
-//npm start
+# Start
+```bash
+npm install
+npm start
+```
